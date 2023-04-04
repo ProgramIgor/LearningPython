@@ -5,6 +5,7 @@ Aprendendo Python
 Primeira contato com o Python
 
 1 - Aprendendi sobre a tipagem do Python 3, conversão de variavel.
+
 2 - Aprendendo a sintaxe, criando uma aplicação simples de um jogo de advinhação, utilizando o if, else e elif.
 3 - Usando o laço While no teste do codigo enquanto a condição for verdadeira
 4 - Utilizando String interpolation para formação das strings e aprendendo sobre as boas práticas ao escrever o codigo.
