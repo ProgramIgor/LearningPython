@@ -1,6 +1,6 @@
 Aprendendo Python
 
-03/04/2023 - Portugês(Portuguese)
+-----03/04/2023 - Portugês(Portuguese)-----
 
 Primeira contato com o Python
 
@@ -10,7 +10,8 @@ Primeira contato com o Python
 4 - Utilizando String interpolation para formação das strings e aprendendo sobre as boas práticas ao escrever o codigo.
 
 
-####03/04/2023 - Inglês(English)
+-----03/04/2023 - Inglês(English)-----
+
 My first contact whith Python
 
 1 - Im learnig a __typing__ of Python 3 e vaariable conversor.
