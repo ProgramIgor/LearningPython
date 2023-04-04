@@ -1,6 +1,6 @@
-###Aprendendo Python
+Aprendendo Python
 
-####03/04/2023 - Portugês(Portuguese)
+03/04/2023 - Portugês(Portuguese)
 
 Primeira contato com o Python
 
